@@ -1,2 +1,4 @@
 0x00*/test/*
 names.sql
+main.py
+*.pyc
